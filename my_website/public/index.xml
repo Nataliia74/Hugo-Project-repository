@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nataliia</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nataliia</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/en/education/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/education/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Introduction To Programming&lt;/em&gt;&lt;/strong&gt;, Code Your Future — &lt;em&gt;May 2025 – present&lt;/em&gt;, Scotland&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Certified Cloud Practitioner&lt;/em&gt;&lt;/strong&gt;, Generation UK &amp;amp; Ireland — &lt;em&gt;August 2024 – October 2024&lt;/em&gt;, Scotland&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;SCQF7 PDA Data Science&lt;/em&gt;&lt;/strong&gt;, Edinburgh College — &lt;em&gt;September 2023 – June 2024&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;For a more complete list of my education, please check out my &lt;a href=&#34;https://www.linkedin.com/in/nataliia-volkova74/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/en/projects/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/projects/</guid>
+      <description>&lt;p&gt;Here are some of my projects:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;h4 id=&#34;tv-show-browser-project--description&#34;&gt;&#xD;&#xA;  TV Show Browser Project – &lt;a href=&#34;https://cyf-nataliia74-tv.netlify.app/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Description&lt;/a&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#tv-show-browser-project--description&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Built a web application that consumes data from a public API to display TV shows and episodes in a clean, user-friendly interface. Implemented filtering functionality to help users quickly find specific shows or episodes, improving overall user experience. Focused on DOM manipulation and responsive design to ensure the content was visually appealing and easy to navigate. Strengthened skills in &lt;strong&gt;&lt;em&gt;JavaScript&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;CSS&lt;/em&gt;&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;API integration&lt;/em&gt;&lt;/strong&gt; while working in an agile, collaborative environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work and volunteer experience</title>
+      <link>http://localhost:1313/en/work/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/work/</guid>
+      <description>&lt;h3 id=&#34;it-department-volunteer-roslin-institute-the-university-of-edinburgh&#34;&gt;&#xD;&#xA;  IT Department Volunteer, Roslin Institute, The University of Edinburgh&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#it-department-volunteer-roslin-institute-the-university-of-edinburgh&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;November 2023 – December 2023, Scotland&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I developed my knowledge of SQL and consulted with colleagues on maintenance of remote computer networks.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Collaborated closely with a team of seven permanent staff to gather data and achieve project goals&lt;/li&gt;&#xA;&lt;li&gt;Applied problem-solving techniques to diagnose network issues&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech-support-volunteer-ace-it&#34;&gt;&#xD;&#xA;  Tech Support Volunteer, ACE IT&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#tech-support-volunteer-ace-it&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;October 2022 – June 2023, Edinburgh, Scotland&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Зв&#39;язатися зі мною</title>
+      <link>http://localhost:1313/uk/contact/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/uk/contact/</guid>
+      <description>&lt;p&gt;Надіслати мені електронного листа:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:volkov.nataliia@gmail.com&#34; &gt;volkov.nataliia@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Освіта</title>
+      <link>http://localhost:1313/uk/education/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/uk/education/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Вступ до програмування&lt;/em&gt;&lt;/strong&gt;, Code Your Future — &lt;em&gt;травень 2025 – по теперішній час&lt;/em&gt;, Шотландія&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Сертифікований Cloud Practitioner&lt;/em&gt;&lt;/strong&gt;, Generation UK &amp;amp; Ireland — &lt;em&gt;серпень 2024 – жовтень 2024&lt;/em&gt;, Шотландія&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;SCQF7 PDA Data Science&lt;/em&gt;&lt;/strong&gt;, Edinburgh College — &lt;em&gt;вересень 2023 – червень 2024&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Для повнішого списку моєї освіти, будь ласка, перегляньте мій &lt;a href=&#34;https://www.linkedin.com/in/nataliia-volkova74/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Праця</title>
+      <link>http://localhost:1313/uk/work/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/uk/work/</guid>
+      <description>&lt;h3 id=&#34;волонтер-іт-відділу-roslin-institute-університет-едінбурга&#34;&gt;&#xD;&#xA;  Волонтер ІТ-відділу, Roslin Institute, Університет Едінбурга&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%b2%d0%be%d0%bb%d0%be%d0%bd%d1%82%d0%b5%d1%80-%d1%96%d1%82-%d0%b2%d1%96%d0%b4%d0%b4%d1%96%d0%bb%d1%83-roslin-institute-%d1%83%d0%bd%d1%96%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%82%d0%b5%d1%82-%d0%b5%d0%b4%d1%96%d0%bd%d0%b1%d1%83%d1%80%d0%b3%d0%b0&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Листопад 2023 – Грудень 2023, Шотландія&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Я розвивав свої знання SQL та консультував колег щодо обслуговування віддалених комп&amp;rsquo;ютерних мереж.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Тісно співпрацював із командою з семи постійних співробітників для збору даних та досягнення цілей проєкту&lt;/li&gt;&#xA;&lt;li&gt;Застосовував методи вирішення проблем для діагностики мережевих питань&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;волонтер-техпідтримки-ace-it&#34;&gt;&#xD;&#xA;  Волонтер техпідтримки, ACE IT&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%b2%d0%be%d0%bb%d0%be%d0%bd%d1%82%d0%b5%d1%80-%d1%82%d0%b5%d1%85%d0%bf%d1%96%d0%b4%d1%82%d1%80%d0%b8%d0%bc%d0%ba%d0%b8-ace-it&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Жовтень 2022 – Червень 2023, Едінбург, Шотландія&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Проєкти</title>
+      <link>http://localhost:1313/uk/projects/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/uk/projects/</guid>
+      <description>&lt;p&gt;Ось деякі з моїх проєктів:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;h4 id=&#34;проєкт-tv-show-browser--опис&#34;&gt;&#xD;&#xA;  Проєкт TV Show Browser – &lt;a href=&#34;https://cyf-nataliia74-tv.netlify.app/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Опис&lt;/a&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%bf%d1%80%d0%be%d1%94%d0%ba%d1%82-tv-show-browser--%d0%be%d0%bf%d0%b8%d1%81&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Розроблено веб-додаток, який використовує дані з публічного API для відображення телешоу та епізодів у чистому та зручному для користувача інтерфейсі. Реалізовано функцію фільтрації, щоб користувачі могли швидко знаходити конкретні шоу або епізоди, покращуючи загальний досвід користувача. Зосереджено увагу на маніпуляціях DOM та адаптивному дизайні, щоб контент був візуально привабливим і легко навігувався. Закріплено навички в &lt;strong&gt;&lt;em&gt;JavaScript&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;CSS&lt;/em&gt;&lt;/strong&gt; та &lt;strong&gt;&lt;em&gt;API інтеграції&lt;/em&gt;&lt;/strong&gt; під час роботи в гнучкому, командному середовищі.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;Send email for me:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:volkov.nataliia@gmail.com&#34; &gt;volkov.nataliia@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+[projects]
+one = "проєкт"
+other = "проєкти"
+
+[contact]
+one = "контак"
+other = "контакти"
+
+[education]
+one = "освіта"
+other = "освіта"
+
+[work]
+one = "досвід роботи"
+other = "досвід роботи"
