@@ -178,7 +178,8 @@ type = "application/rss+xml"
 
 [languages.en]
 languageName = "English"
-weight = 0
+weight = 1
+title = "NATALIIA"
 
 [[languages.en.menu.main]]
 name = "Work"
@@ -201,9 +202,9 @@ weight = 4
 url = "/en/contact/"
 
 [languages.uk]
-languageName = "Ukrainian"
+languageName = "Українська"
 title = "Наталія"
-weight = 0
+weight = 2
 
 
 [languages.uk.params]
