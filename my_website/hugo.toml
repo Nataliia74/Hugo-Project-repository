@@ -3,7 +3,7 @@ title = "NATALIIA"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 enableEmoji = true
 
 
@@ -177,34 +177,33 @@ rel = "alternate"
 type = "application/rss+xml"
 
 [languages.en]
-languageName = "English"
-weight = 1
-title = "NATALIIA"
+languageName = ":gb:"
+
 
 [[languages.en.menu.main]]
 name = "Work"
 weight = 1
-url = "/en/work/"
+url = "work/"
 
 [[languages.en.menu.main]]
 name = "Education"
 weight = 2
-url = "/en/education/"
+url = "education/"
 
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "/en/projects/"
+url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 4
-url = "/en/contact/"
+url = "contact/"
 
 [languages.uk]
-languageName = "Українська"
+languageName = "ua"
 title = "Наталія"
-weight = 2
+
 
 
 [languages.uk.params]
@@ -217,22 +216,22 @@ keywords = "портфоліо, розробник, особистий"
 name = "Досвід роботи"
 identifier = "досвід роботи"
 weight = 1
-url = "/uk/work/"
+url = "work/"
 
 [[languages.uk.menu.main]]
 name = "Освіта"
 identifier = "освіта"
 weight = 2
-url = "/uk/education/"
+url = "education/"
 
 [[languages.uk.menu.main]]
 name = "Проєкти"
 identifier = "проєкти"
 weight = 3
-url = "/uk/projects/"
+url = "projects/"
 
 [[languages.uk.menu.main]]
 name = "Контакти"
 identifier = "контакти"
 weight = 4
-url = "/uk/contact/"
+url = "contact/"

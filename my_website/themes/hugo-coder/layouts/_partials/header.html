@@ -14,7 +14,7 @@
         {{ with .Site.Menus.main}}
           {{ range sort . }}
             <li class="navigation-item">
-             <a class="navigation-link {{ .Params.class }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+              <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
             </li>
           {{ end }}
         {{ end }}

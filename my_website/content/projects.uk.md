@@ -3,6 +3,7 @@ title: "Проєкти"
 draft: false
 date: 2025-09-01
 type: "page"
+language: uk
 ---
 
 Ось деякі з моїх проєктів:

@@ -3,6 +3,7 @@ title: "Праця"
 draft: false
 date: 2025-09-01
 type: "work"
+language: uk
 ---
 
 ### Волонтер ІТ-відділу, Roslin Institute, Університет Едінбурга

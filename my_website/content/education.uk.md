@@ -3,6 +3,7 @@ title: "Освіта"
 draft: false
 date: 2025-09-01
 type: "education"
+language: uk
 ---
 
 - **_Вступ до програмування_**, Code Your Future — _травень 2025 – по теперішній час_, Шотландія
