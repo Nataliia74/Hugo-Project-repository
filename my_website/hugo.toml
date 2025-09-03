@@ -1,5 +1,5 @@
-baseURL = "http://natalyvolk/"
-title = "Nataliia"
+baseURL = "https://natalyvolk.netlify.app/"
+title = "NATALIIA"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
